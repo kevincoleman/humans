@@ -4,8 +4,9 @@
   "lastName": "Doe",
   "sex": "Male",
   "dateOfBirth": {
+    "unixTimeStamp": 473385900,
     "year": 1985,
-    "month": "January",
+    "month": 1,
     "day": 1,
     "hour": 00,
     "minute": 00
