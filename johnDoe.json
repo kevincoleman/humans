@@ -1,9 +1,12 @@
 {
   "privacy": 1,
-  "firstName": "John",
-  "middleName": "Q",
-  "lastName": "Doe",
-  "sex": "Male",
+  "identity": {
+    "privacy": 0,
+    "firstName": "John",
+    "middleName": "Q",
+    "lastName": "Doe",
+    "sex": "Male"
+  },
   "dateOfBirth": {
     "privacy": 0.7,
     "unixTimeStamp": 473385900,
