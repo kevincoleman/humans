@@ -1,0 +1,6 @@
+{
+  firstName: "John",
+  middleName: "Q",
+  lastName: "Doe"
+  dateOfBirth: [01, 13, 1985]
+}
