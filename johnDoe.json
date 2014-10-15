@@ -1,6 +1,13 @@
 {
-  firstName: "John",
-  middleName: "Q",
-  lastName: "Doe"
-  dateOfBirth: [01, 13, 1985]
+  "firstName": "John",
+  "middleName": "Q",
+  "lastName": "Doe",
+  "sex": "Male",
+  "dateOfBirth": {
+    "year": 1985,
+    "month": "January",
+    "day": 1,
+    "hour": 00,
+    "minute": 00
+  }
 }
