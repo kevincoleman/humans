@@ -15,4 +15,4 @@ John Doe is a sample human. He is one example of how you can structure your data
   + Every object contains a privacy attribute unless it should inherit its parent’s privacy value
   + Numbered values should be stored as numbers, not as number strings
   + Values that need units specified should have separate “units” and “amount” properties.
-  + Single properties with unique privacy values should denote their privacy values alongside their property values by using a contained object with properties “privacy” and “value”.
+  + Single properties with unique privacy values should denote their privacy values alongside their property values by using a contained object with properties “privacy” and “value”. See a [sample](https://github.com/kevincoleman/humans/blob/783a65a96119e6f1af4f2b7fa13b35806a65a5e8/johnDoe.json#L31).
