@@ -1,6 +1,7 @@
 {
   "privacy": 1,
   "identity": {
+    "uid": 0000000000,
     "privacy": 0,
     "firstName": "John",
     "middleName": "Q",
