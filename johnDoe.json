@@ -13,8 +13,8 @@
     "year": 1985,
     "month": 1,
     "day": 1,
-    "hour": 00,
-    "minute": 00
+    "hour": 0,
+    "minute": 0
   },
   "physical": {
     "privacy": 0.2,
