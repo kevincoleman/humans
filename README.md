@@ -13,6 +13,6 @@ As you begin to add data to your object, please do send pull requests to modify 
 John Doe is a sample human. He is one example of how you can structure your data, and is constantly changing based on popular suggestion. Below are some underlying rules to make your life easier when it comes to structuring data:
 
   + Every object contains a privacy attribute unless it should inherit its parent’s privacy value
-  + Numbered values should be stored as number values, not as number strings
-  + values that need units specified should have separate “units” and “amount” properties.
+  + Numbered values should be stored as numbers, not as number strings
+  + Values that need units specified should have separate “units” and “amount” properties.
   + Single properties with unique privacy values should denote their privacy values alongside their property values by using a contained object with properties “privacy” and “value”.
