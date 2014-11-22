@@ -4,8 +4,7 @@
     "privacy": 0,
     "firstName": "John",
     "middleName": "Q",
-    "lastName": "Doe",
-    "sex": "Male"
+    "lastName": "Doe"
   },
   "dateOfBirth": {
     "privacy": 0.7,
@@ -15,5 +14,23 @@
     "day": 1,
     "hour": 00,
     "minute": 00
+  },
+  "physical": {
+    "privacy": 0.2,
+    "sex": "male",
+    "height": {
+      "privacy": 0.5,
+      "units": "centimeters",
+      "amount": "180"
+    },
+    "weight": {
+      "privacy": 0.9,
+      "units": "kilograms",
+      "amount": "70"
+    },
+    "eyeColor": {
+      "privacy": 0.3,
+      "value": "blue"
+    }
   }
 }
